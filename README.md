@@ -9,4 +9,5 @@ This repository contains my assignments
 
 [Graded_assignment1](https://github.com/andrestreure/assignments/blob/master/Graded_assignment1.ipynb)
 
-[Graded_assignment2](https://github.com/andrestreure/assignments/blob/master/Graded_assignment2.ipynb)
+[Graded_assignment2](https://github.com/andrestreure/assignments/blob/master/Graded_assignment_2.ipynb)
+
