@@ -11,7 +11,7 @@ This repository contains my assignments
 
 [Graded_assignment2](https://github.com/andrestreure/assignments/blob/master/Graded_assignment_2.ipynb)
 
-[EXAM P](https://github.com/andrestreure/assignments/blob/master/Graded_assignment_2.ipynb)
+[EXAM P](https://github.com/andrestreure/assignments/blob/master/exam_june_7_2018-2.ipynb)
 
 [EXAM R](https://github.com/andrestreure/assignments/blob/master/Exam_student-2.ipynb)
 
