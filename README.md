@@ -13,6 +13,6 @@ This repository contains my assignments
 
 [EXAM P](https://github.com/andrestreure/assignments/blob/master/Graded_assignment_2.ipynb)
 
-[EXAM R](https://github.com/andrestreure/assignments/blob/master/Graded_assignment_2.ipynb)
+[EXAM R](https://github.com/andrestreure/assignments/blob/master/Exam_student-2.ipynb)
 
 Examens in samenwerking met Marien van loon, 2014963, u243991.
