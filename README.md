@@ -16,3 +16,7 @@ This repository contains my assignments
 [EXAM R](https://github.com/andrestreure/assignments/blob/master/Exam_student-2.ipynb)
 
 Examens in samenwerking met Marien van loon, 2014963, u243991 en ikzelf Andres Treure, 2015554, u635270.
+
+[EXAM python september](https://github.com/andrestreure/assignments/blob/master/pythonexam.ipynb)
+
+[EXAM R september](https://github.com/andrestreure/assignments/blob/master/Rexam.ipynb)
